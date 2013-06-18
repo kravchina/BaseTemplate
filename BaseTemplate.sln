@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseTemplate.Web", "BaseTemplate.Web\BaseTemplate.Web.csproj", "{F10B4FE8-9CF9-4358-A7A5-9AC3B3C51797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseTemplate.Infrastructure", "BaseTemplate.Infrastructure\BaseTemplate.Infrastructure.csproj", "{7B4170CB-C003-4DAD-A813-8DD0DA4A8C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10B4FE8-9CF9-4358-A7A5-9AC3B3C51797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10B4FE8-9CF9-4358-A7A5-9AC3B3C51797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10B4FE8-9CF9-4358-A7A5-9AC3B3C51797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10B4FE8-9CF9-4358-A7A5-9AC3B3C51797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4170CB-C003-4DAD-A813-8DD0DA4A8C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4170CB-C003-4DAD-A813-8DD0DA4A8C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4170CB-C003-4DAD-A813-8DD0DA4A8C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4170CB-C003-4DAD-A813-8DD0DA4A8C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
