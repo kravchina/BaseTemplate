@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 using BaseTemplate.Infrastructure;
+using BaseTemplate.Infrastructure.DataBaseContext;
 using Ninject;
 using Ninject.Web.Common;
 

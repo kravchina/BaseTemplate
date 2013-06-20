@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BaseTemplate.Infrastructure
+namespace BaseTemplate.Infrastructure.DataBaseContext
 {
     public class EfDbContext : DbContext
     {

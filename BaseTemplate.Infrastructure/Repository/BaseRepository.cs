@@ -6,7 +6,8 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
-using BaseTemplate.Infrastructure.EntityModel;
+using BaseTemplate.Domain.Entities;
+using BaseTemplate.Infrastructure.DataBaseContext;
 
 namespace BaseTemplate.Infrastructure.Repository
 {
